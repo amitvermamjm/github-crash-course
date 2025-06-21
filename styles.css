@@ -1,11 +1,25 @@
-h1{
-    color: blue;
-    font-size: 24px;
+html {
+  font-family: sans-serif;
 }
-body{
-    background-color: lightgray;
+
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #322e2d;
+  color: #f6f0ee;
 }
-p{
-    color: green;
-    font-size: 16px;
+
+#logo {
+  width: 7rem;
+  height: 7rem;
+  object-fit: contain;
+  margin-top: 2rem;
+}
+
+h1 {
+  color: #e8d4b2;
+}
+
+a {
+  color: #fee389;
 }
